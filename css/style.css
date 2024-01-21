@@ -1,0 +1,236 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #fff;
+  font-size: 16px;
+  line-height: 1.5; 
+  letter-spacing: 0.32px;
+}
+.main-title {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
+  
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+}
+.main {
+  background: #2e2f42;
+}
+a {
+  text-decoration: none;}
+.logo {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+header {
+  font-family: Roboto;
+  font-size: 16px;
+
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+}
+.button-title {
+  background: var(--IRIS, #4d5ae5);
+  color: var(--WHITE, #fff);
+  
+
+  /* Button Text */
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+ 
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+  cursor: pointer;
+}
+.button-title:hover{
+  background-color: #404BBF
+}
+.button-title:focus{background-color: #404BBF}
+
+.logo-footer {
+  color: var(--CLOUD, #f4f4fd);
+  font-family: Raleway;
+  font-size: 18px;
+
+  font-weight: 700;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.nav {
+  color: var(--NAVY-BLUE, #2E2F42);
+
+/* Body Medium */
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
+.address{
+  color: var(--SLATE, #434455);
+
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+font-style: normal;
+
+}
+.link{font-style: normal;}
+.link:hover {color: #404bbf
+
+}
+.link:focus { color: #404bbf}
+.top-h{
+  color: var(--NAVY-BLUE, #2E2F42);
+
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 24px; /* 120% */
+  letter-spacing: 0.4px;
+}
+.top-p{ color: var(--SLATE, #434455);
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;}
+.team {
+  background-color: #F4F4FD
+}
+.team-hbig{
+  color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+
+/* Header 2 */
+font-family: Roboto;
+font-size: 36px;
+
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+.team-hsmall{
+  color: var(--NAVY-BLUE, #2E2F42);
+  text-align: center;
+  
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 24px; /* 120% */
+  letter-spacing: 0.4px;
+}
+.team-spis{background-color: #FFFFFF}
+.team-p{
+  color: var(--SLATE, #434455);
+text-align: center;
+
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
+.port{background: #FFF;}
+.port-hbig{color: var(--NAVY-BLUE, #2E2F42);
+  text-align: center;
+  
+  /* Header 2 */
+  font-family: Roboto;
+  font-size: 36px;
+
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;}
+.port-hsmall{color: var(--NAVY-BLUE, #2E2F42);
+
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+
+    font-weight: 500;
+    line-height: 24px; /* 120% */
+    letter-spacing: 0.4px;}
+.port-p{
+
+    color: var(--SLATE, #434455);
+
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;}
+.footer {
+  background: var(--NAVY-BLUE, #2E2F42);
+}
+.foot-p{
+  color: var(--CLOUD, #F4F4FD);
+
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
+.link-spis{
+  color: var(--NAVY-BLUE, #2E2F42);
+
+/* Body Medium */
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
+.link-spis:hover{
+  color: #404bbf;
+}
+.link-spis:focus{
+  color: #404bbf;
+}
+.logofooter{
+  color: #F4F4FD
+}
+
+.logoheader { color:#2e2f42}
